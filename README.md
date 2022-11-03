@@ -15,3 +15,6 @@ pnpm install
 // docker run --name redis-server -p 6379:6379 -d redis:latest
 pnpm dev
 ```
+
+### Contact me
+mushroom@mails.ccnu.edu.cn
